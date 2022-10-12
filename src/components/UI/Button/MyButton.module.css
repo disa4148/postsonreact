@@ -1,0 +1,21 @@
+.myBtn {
+    align-items: center;
+    text-align: center;
+    background-color: #3797F0;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    
+    padding: 5px 0px 5px 0px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    margin:8px;
+    width: 210px;
+}
+
+
+.myBtn:active {
+    background-color: #1d88ec;
+    color: rgb(199, 199, 199);
+}
