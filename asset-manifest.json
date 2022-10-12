@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/postsonreact,/static/css/main.db53b2b7.css",
+    "main.js": "/postsonreact,/static/js/main.24218b8e.js",
+    "index.html": "/postsonreact,/index.html",
+    "main.db53b2b7.css.map": "/postsonreact,/static/css/main.db53b2b7.css.map",
+    "main.24218b8e.js.map": "/postsonreact,/static/js/main.24218b8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db53b2b7.css",
+    "static/js/main.24218b8e.js"
+  ]
+}
